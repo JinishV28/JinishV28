@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JinishV28
+- 👋 Hi, I’m @JinishV28(Jinish Varaiya)
 - 👀 I’m interested in Engineering & Business
 - 🌱 I’m currently learning Coding/Maths/Physics/Business R&D 
 - 💞️ I’m looking to collaborate on doing Internships(AI/DS) for LOR
